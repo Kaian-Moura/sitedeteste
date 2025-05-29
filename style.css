@@ -212,7 +212,7 @@ body {
 
 .footer {
     position: fixed; /* Fixa na tela */
-    bottom: 80px; /* Posiciona acima do bottom-nav */
+    bottom: 0px; /* Posiciona acima do bottom-nav */
     left: 0; /* Garante que comece no canto esquerdo */
     width: 100%; /* Largura total da tela */
     height: 30px;
